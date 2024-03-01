@@ -1,0 +1,35 @@
+.wrapper{
+    border-width: 100;
+}
+.logo{
+    text-align: center;
+}
+.features{
+    background-color: red;
+    margin-top:20px 0;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    text-align: center;  
+}
+.features .links li{
+    display: inline;
+    margin: 0 5px;
+    text-transform: uppercase;
+    margin-top: 20px 0;
+}
+.images{
+    text-align: center;
+    margin: 10px 0;
+    
+}
+.footer{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+    
+}
+body{
+    background-image: url('C:\Users\ujam1\Desktop\Img 1.jpg');
+    background-size: cover;
+}
